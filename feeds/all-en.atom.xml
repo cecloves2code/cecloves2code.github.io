@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CEC Loves To Code</title><link href="http://cecloves2code.github.io/" rel="alternate"></link><link href="http://cecloves2code.github.io/feeds%5Call-en.atom.xml" rel="self"></link><id>http://cecloves2code.github.io/</id><updated>2015-05-12T00:00:00+00:00</updated><entry><title>CEC Loves to Code Project</title><link href="http://cecloves2code.github.io/hello.html" rel="alternate"></link><updated>2015-05-12T00:00:00+00:00</updated><author><name>Sangeeth</name></author><id>tag:cecloves2code.github.io,2015-05-12:hello.html</id><summary type="html">&lt;p&gt;Dear CECian,&lt;/p&gt;
-&lt;p&gt;We have something wonderful being created specifically for you guys. We want to
-teach you the joys of coding this summer. &lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;cec&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
-    &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Loves to code&amp;quot;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Sincerely,
-CECian&lt;/p&gt;</summary><category term="Pilot"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CEC Loves To Code</title><link href="http://cecloves2code.github.io/" rel="alternate"></link><link href="http://cecloves2code.github.io/feeds%5Call-en.atom.xml" rel="self"></link><id>http://cecloves2code.github.io/</id><updated>2015-06-12T00:00:00+00:00</updated><entry><title>Project While-True-Learn</title><link href="http://cecloves2code.github.io/blog/2015/06/12/hello_world/" rel="alternate"></link><updated>2015-06-12T00:00:00+00:00</updated><author><name>KS</name></author><id>tag:cecloves2code.github.io,2015-06-12:blog/2015/06/12/hello_world/</id><summary type="html">&lt;p&gt;Dear CECian,&lt;/p&gt;
+&lt;p&gt;Hope you are doing great.&lt;/p&gt;
+&lt;p&gt;We are embarking on a small but ambitious project to usher in a new culture at CEC. You might be a CS, EC or EEE student who already has many awesome skills under your belt, we would really want you to consider adding one more skill to your skillset.&lt;/p&gt;
+&lt;p&gt;This skill apparently brings a lot of &lt;a href="http://www.quora.com/How-do-I-overcome-fear-of-coding"&gt;fear&lt;/a&gt; in the mind of many. We are talking about &lt;code&gt;coding&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Computers are built basically for one sole purpose which is to help us with our tasks. Computers are not smart enough to understand what we need right away. We have to give them step by step instructions on what needs to be done. This way of telling computers what needs to be done is basically all what &lt;code&gt;coding&lt;/code&gt; is. The world of &lt;code&gt;coding&lt;/code&gt; is one of great joy and fun, it fuels everything from the smart phone in your hand to a &lt;a href="http://programmers.stackexchange.com/questions/159637/what-is-the-mars-curiosity-rovers-software-built-in"&gt;rover on a Mars mission&lt;/a&gt; work.&lt;/p&gt;
+&lt;p&gt;Steve Jobs had something wonderful to &lt;a href="http://www.diygenius.com/learn-to-code-online/"&gt;say&lt;/a&gt; about learning to code&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“I think everybody in this country should learn how to program a computer because it teaches you how to think.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We know very well how college students hate advices, but this advice from Steve is worth following. You will be thankful 2 or 3 years down the line for having started with coding while at college. It is definitely a skill worth checking out. &lt;/p&gt;
+&lt;p&gt;Here is what this project plans to offer on a highlevel&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make students familiarized with any of the three programming languages ie &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;Java&lt;/code&gt; or &lt;code&gt;C&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Create a platform where students who are new to programming can get help from mentors who are alumni.&lt;/li&gt;
+&lt;li&gt;Do a small opensource project in Github to give students a flavor of what happens in the real world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are the logistics for the project.&lt;/p&gt;
+&lt;h3 id="first-month"&gt;First month&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn either &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;Java&lt;/code&gt; or &lt;code&gt;C&lt;/code&gt; based on your interest.&lt;/li&gt;
+&lt;li&gt;Learn the basics of version control and get started with &lt;a href="http://github.com"&gt;github&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="second-month"&gt;Second month&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply what we learned in First month to participate in an opensource project where students will be solving beginner friendly programming problems following a Pull Request review model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All learning will be a self learning process where we will point to great resources for learning. The idea is not to spoon feed but let students explore as much as you they in any of these tracks. But we want to help you when you are in doubt on how to proceed, so we have mentors who can be communicated through &lt;a href="http://whiletruelearn.slack.com"&gt;slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally this is a not for profit but for fun project with a genuine desire to make students interested in programming.To that end it is open to any current CECian irrespective of branch or seniority. The only requirement is a passion to learn and acquire a new skill.&lt;/p&gt;
+&lt;p&gt;If you are intersted, do register &lt;a href="https://goo.gl/vmuEg8"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks,&lt;/p&gt;
+&lt;p&gt;A bunch of CEC Alumni&lt;/p&gt;</summary><category term="WTL Pilot"></category><category term="Python"></category><category term="C"></category><category term="Java"></category><category term="CECLoves2Code"></category></entry></feed>
